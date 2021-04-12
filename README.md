@@ -12,3 +12,4 @@
 
 <img width="908" alt="Password gen screenshot" src="https://user-images.githubusercontent.com/80074766/114334210-b5b0a700-9b0f-11eb-8f78-137b6ab55d89.png">
 
+https://lamdoan825.github.io/password-generator/
